@@ -9,5 +9,7 @@
 int main(){
 	printf("Hello world!");
 	
+	printf("\nWhat is your name?\n");
+	
 	return 1;
 }
