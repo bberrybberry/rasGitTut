@@ -9,12 +9,9 @@
 int main(){
 	printf("Hello world!");
 	
-<<<<<<< HEAD
+	printf("\nWhat is your name?\n");
 	printf("\n");
 	printf("My name is %s!", "Breanna");
-=======
-	printf("\nWhat is your name?\n");
->>>>>>> 89b311eb65f487644406c704ba808c20466434cc
 	
 	return 1;
 }
