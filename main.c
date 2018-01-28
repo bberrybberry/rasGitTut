@@ -9,5 +9,8 @@
 int main(){
 	printf("Hello world!");
 	
+	int a = 10;
+	printf("A is %d", a);
+	
 	return 1;
 }
